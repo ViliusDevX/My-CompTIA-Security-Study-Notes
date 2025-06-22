@@ -1,4 +1,4 @@
-Welcome to my CompTIA Security+ Study Notes repository. 📚 These notes were created while I was preparing for the SY0-701 exam, from 2025-02-09 to 2025-03-24. They cover key cybersecurity concepts in an easy to understand format, including:
+Welcome to my CompTIA Security+ Study Notes repository. 📚 These notes were created while I was preparing for the SY0-701 exam, from 2025-02-09 to 2025-03-24. They cover key cybersecurity concepts in an easy to understand format, some of them are:
 
   Basic IT Concepts: Understand the CIA Triad, DAD, and NIST Framework 🔐.
 
